@@ -27,3 +27,5 @@ Feedback: Gunakan mysqli_error($conn) jika query gagal agar mempermudah debuggin
 
 Tugas Anda:
 Berikan kode lengkap untuk koneksi.php, register.php, dan login.php yang sudah terintegrasi dan siap pakai sesuai aturan di atas.
+
+catatan: Gunakan prompt ini sambil mengupload 3 file tersebut (register, login dan koneksi) ke gemini supaya gemini tau bagian mana yang perlu diubah
